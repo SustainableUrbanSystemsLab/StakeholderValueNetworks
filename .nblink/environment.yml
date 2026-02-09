@@ -1,0 +1,13 @@
+name: stakeholder-value-networks
+channels:
+  - emscripten-forge
+  - conda-forge
+dependencies:
+  - python=3.12
+  - xeus-python
+  - numpy
+  - pandas
+  - matplotlib
+  - networkx
+  - sympy
+  - scipy
